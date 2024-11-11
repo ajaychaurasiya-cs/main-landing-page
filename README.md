@@ -1,6 +1,6 @@
 # Main Landing Page
 
-The Doctor Appointment App is a React-based web application that allows users to schedule appointments with doctors. This app simplifies the process of booking and managing medical appointments.
+main-landing-page is a wallet wed app .
 
 ## Demo
  https://ajaychaurasiya-cs.github.io/main-landing-page/
@@ -14,18 +14,22 @@ The Doctor Appointment App is a React-based web application that allows users to
 
 ## Installation
 
-To run the Doctor Appointment App locally, follow these steps:
+To run the main landin page App locally, follow these steps:
+![localhost_3000_landing (1)](https://github.com/user-attachments/assets/5cd5573e-bdce-4993-8f9a-f53c5bd2c713)
+![localhost_3000_landing](https://github.com/user-attachments/assets/d860c6ab-0c0d-4d54-a739-261b0eafaab7)
+![localhost_3000_landing (2)](https://github.com/user-attachments/assets/379f58b0-a074-453f-be28-5326b37e7d88)
+![localhost_3000_landing (3)](https://github.com/user-attachments/assets/b86d1e68-cd0f-412b-b34b-2bd3d52f092a)
 
 Clone the project
 
 ```bash
-  git clone https://github.com/ajaychaurasiya-cs/
+  git clone https://github.com/ajaychaurasiya-cs/main-landing-page.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd 
+  cd main-landing-page
 ```
 
 Install dependencies
